@@ -6,7 +6,7 @@ session_start();
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>putra utama motor</title>
+<title>AJI MOTOR</title>
 <style type="text/css">
 <!--
 .style7 {font-family: Georgia, "Times New Roman", Times, serif; font-size: 12pt; font-weight: bold; }
